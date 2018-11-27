@@ -1,0 +1,2 @@
+# EIV
+Explorative Information Visualization
