@@ -1,3 +1,5 @@
+# Explorative Information Visualization Project (12/2018)
+
 ## Introduction
 
 A project about exploring different tools and techniques that provide a simple overview about myself based on my shopping habits.
@@ -15,5 +17,3 @@ The project utilizes following techniques and tools:
 * Tools to make the visualization color-friendly for users with disabilities to see colors or their differences
   * [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/) tool to test different color disabilities 
   * [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=7) tool to select colors from colorblind friendly palette
-
-
